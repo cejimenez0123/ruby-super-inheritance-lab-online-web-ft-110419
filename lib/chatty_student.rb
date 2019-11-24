@@ -1,5 +1,5 @@
 class ChattyStudent < Student
-  def hello 
+  def hello
     super
     puts "Hey there! I'm so
  excited to learn stuff.How are you doing today? I'm okay, but I'm kind of
