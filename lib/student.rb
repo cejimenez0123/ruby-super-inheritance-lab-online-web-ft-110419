@@ -4,6 +4,6 @@ class Student
  excited to learn stuff."
   end
   def raise_hand
-    10.times {|n|"Pick me!"}
+    "Pick me!"
   end
 end
