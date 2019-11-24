@@ -8,6 +8,6 @@ who died..."
 end
   def raise_hand
     super
-    10.times {|n|"Pick me!"}
+    10.times {|n| print "Pick me!"}
   end
 end
