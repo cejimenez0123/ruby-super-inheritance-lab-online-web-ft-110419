@@ -9,3 +9,4 @@ who died..."
   def raise_hand
     10.times {|n| puts "Pick me!"}
   end
+end
