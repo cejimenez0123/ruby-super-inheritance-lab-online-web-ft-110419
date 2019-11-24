@@ -5,6 +5,6 @@ class ChattyStudent < Student
   end
   def raise_hand
     super
-    10.times {|n| print "Pick me!"}
+    10.times {|n| "Pick me!"}
   end
 end
