@@ -9,6 +9,6 @@ who died..."
 end
   def raise_hand
     super
-  puts  10.times {|n "Pick me!"}
+  puts  10.times {|n| "Pick me!"}
   end
 end
